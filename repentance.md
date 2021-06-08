@@ -1,9 +1,9 @@
 ---
 layout: lanyon
-title: repentance according to the Bible
+title: Repentance According to the Bible
 ---
 # Repentance according to the Bible
-![repentance](media/repentance.png)The term repentance comes with all sorts of different ideas. By doing a simple search on the internet we find it summed up in words like "remorse, contrition, contriteness, penitence, sorrow, regret".  Most would agree that this is what is meant when we commonly use the word repentance. 
+![repentance](/media/repentance.png)The term repentance comes with all sorts of different ideas. By doing a simple search on the internet we find it summed up in words like "remorse, contrition, contriteness, penitence, sorrow, regret".  Most would agree that this is what is meant when we commonly use the word repentance. 
 What I want to look at in this short article is how the Bible uses what we see translated as the word repentance. Why? Word studies are good because we can focus on how the word was used in Scripture, possibly how it was used during that time period and also because words change their meaning over time. Dictionaries are constantly updating their definitions based on contemporary usage of words as well. 
 
 Many Bible scholars however state that the word METANOIA translated originally to Latin as repentance in the Bible is an unfortunate one. 
