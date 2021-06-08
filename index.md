@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lanyon
 title: repentance according to the Bible
 ---
 # Repentance according to the Bible
