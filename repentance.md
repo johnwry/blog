@@ -1,5 +1,5 @@
 ---
-layout: lanyon
+layout: page
 title: Repentance According to the Bible
 ---
 # Repentance according to the Bible
