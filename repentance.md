@@ -14,7 +14,7 @@ Luther says this...
 
 > “in no way does this do justice to the Greek.” ([Luther’s Works](https://www.logos.com/product/15485/luthers-works?utm_source=blog.logos.com&utm_medium=blog&utm_content=didyouknowluthers95&utm_campaign=promo-reformation500), [48:67–68](https://ref.ly/logosres/lw48?ref=VolumePage.V+48%2c+p+67&off=1189)
 
-John the Baptist
+## John the Baptist
 
 > Mat 3:1  Now in those days John the Baptist came, preaching in the wilderness of Judea, saying,
 
