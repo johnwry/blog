@@ -15,7 +15,7 @@ lica.org
 The reason I had to add moderators was because 
 
 Jochen Kirstätter has a simple walk-through here:
-https://jochen.kirstaetter.name/authentication-jitsi-meet/
+[Tutorial](https://jochen.kirstaetter.name/authentication-jitsi-meet/)
 
 ### Troubleshoot
 if you get this error:
