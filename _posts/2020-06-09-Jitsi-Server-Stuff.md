@@ -2,7 +2,10 @@
 layout: post
 title: Jitsi Server Stuff
 ---
+Jitsi is an open source video chatting solution that allows you to set up your own server and configure accordingly. 
+
 ## Adding Moderators
+
 ```bash
 sudo prosodyctl register USERNAME auth.video.redbib
 lica.org
