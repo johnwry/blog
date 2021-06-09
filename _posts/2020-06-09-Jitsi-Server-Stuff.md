@@ -3,14 +3,20 @@ layout: post
 title: Jitsi Server Stuff
 ---
 ## Adding Moderators
+```bash
+sudo prosodyctl register USERNAME auth.video.redbib
+lica.org
+```
 
-The reason we had to add moderators was because 
+### how I achieved this
+The reason I had to add moderators was because 
 
 Jochen Kirstätter has a simple walk-through here:
 https://jochen.kirstaetter.name/authentication-jitsi-meet/
 
+### Troubleshoot
 if you get this error:
-```
+```bash
 
 **************************
 Prosody was unable to find the configuration file.
