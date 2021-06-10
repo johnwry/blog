@@ -1,3 +1,7 @@
+---
+title: Application for Admission
+layout: post
+---
 **3D Training Center**
 
 **APPLICATION FOR ADMISSION**
@@ -97,7 +101,7 @@ If yes, please explain:
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **Please rate the applicant on each of the following:**                  **Excellent**   **Average**   **Poor**   **Unknown**
-  ------------------------------------------------------------------------ --------------- ------------- ---------- -------------
+------------------------------------------------------------------------ --------------- ------------- ---------- -------------
   **Reliable**, dependable, responsible                                                                             
   **Mature**, able to cope with life situations                                                                     
   **Emotionally stability**, reaction to stress, poise, mood stability                                              
@@ -208,7 +212,7 @@ If yes, please explain:
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **Please rate the applicant on each of the following:**                  **Excellent**   **Average**   **Poor**   **Unknown**
-  ------------------------------------------------------------------------ --------------- ------------- ---------- -------------
+------------------------------------------------------------------------ --------------- ------------- ---------- -------------
   **Reliable**, dependable, responsible                                                                             
   **Mature**, able to cope with life situations                                                                     
   **Emotionally stability**, reaction to stress, poise, mood stability                                              
@@ -324,7 +328,7 @@ If yes, please explain:
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **Please rate the applicant on each of the following:**                  **Excellent**   **Average**   **Poor**   **Unknown**
-  ------------------------------------------------------------------------ --------------- ------------- ---------- -------------
+------------------------------------------------------------------------ --------------- ------------- ---------- -------------
   **Reliable**, dependable, responsible                                                                             
   **Mature**, able to cope with life situations                                                                     
   **Emotionally stability**, reaction to stress, poise, mood stability                                              
