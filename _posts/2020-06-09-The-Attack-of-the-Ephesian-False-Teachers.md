@@ -1,5 +1,5 @@
 ---
-title: The Attack of the Ephesian False Teachers
+title: The Warning to Timothy of False Teachers
 layout: post
 ---
 
