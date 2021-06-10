@@ -1,6 +1,6 @@
 ---
 title: Application for Admission
-layout: post
+layout: page
 ---
 
 **3D Training Center**
