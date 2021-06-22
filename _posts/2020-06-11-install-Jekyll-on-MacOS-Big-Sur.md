@@ -36,7 +36,7 @@ source ~/.bash_profile
 
 1. Themes + Layouts
    1. https://www.youtube.com/watch?v=UuHrgv6p2Mg&t=358s
-   2. 
+   2. https://www.youtube.com/watch?v=EmSrQCDsMv4
 
 
 
